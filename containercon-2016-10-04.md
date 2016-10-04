@@ -684,6 +684,6 @@ template: inverse
 
 ## Thank you
 
-http://l0rd.github.io/talks/containers-and-languages
+https://containerslanguages.github.io/
 
 [@hguemar, @mariolet, @mjbright]
