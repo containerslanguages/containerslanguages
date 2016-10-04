@@ -629,7 +629,7 @@ println!("{}", i);
   ### Container
 ]
 .right-column[
-## Demo: Rust containers launcher ![Docker](images/docker-mini.png) ![Docker](images/Rust-logo-mini.png)
+## Demo: Rust containers launcher ![Docker](images/docker-mini.png) ![Docker](images/rust-logo-mini.png)
 
 **Docker Image**<br>containerslanguages/rust-launcher
 
